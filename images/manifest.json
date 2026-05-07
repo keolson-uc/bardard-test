@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://keolson-uc.github.io/bardard-test/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in keolson-uc/bardard-test project"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "yerkesplates-10B-0239_0002"
+                ]
+            },
+            "height": 10691,
+            "width": 11566,
+            "items": [
+                {
+                    "id": "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 362,
+                                                "height": 335
+                                            },
+                                            {
+                                                "width": 723,
+                                                "height": 669
+                                            },
+                                            {
+                                                "width": 1446,
+                                                "height": 1337
+                                            },
+                                            {
+                                                "width": 2892,
+                                                "height": 2673
+                                            },
+                                            {
+                                                "width": 5783,
+                                                "height": 5346
+                                            },
+                                            {
+                                                "width": 11566,
+                                                "height": 10691
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 11566,
+                                        "id": "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 10691
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
