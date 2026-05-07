@@ -12,7 +12,7 @@
       "en" : [ "Attribution" ]
     },
     "value" : {
-      "en" : [ "holding-institution" ]
+      "en" : [ "University of Chicago Library" ]
     }
   },
   "homepage" : [ {
@@ -74,7 +74,7 @@
       } ]
     } ]
   }, {
-    "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0001canvas/0002",
+    "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002/canvas/0002",
     "type" : "Canvas",
     "label" : {
       "en" : [ "Whole Plate Image (WPI), Negative" ]
@@ -126,7 +126,7 @@
           "height" : 10691,
           "width" : 11566,
           "service" : [ {
-            "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0003/0003/defult.jpg",
+            "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0003/defult.jpg",
             "protocol" : "http://iiif.io/api/image",
             "type" : "ImageService3",
             "profile" : "level2"
@@ -201,7 +201,7 @@
     "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0006/canvas/0006",
     "type" : "Canvas",
     "label" : {
-      "en" : [ "Glass Plate Enclosure, Front" ]
+      "en" : [ "Glass Plate Enclosure, Back" ]
     },
     "height" : 8013,
     "width" : 7776,
@@ -219,7 +219,7 @@
           "height" : 8013,
           "width" : 7776,
           "service" : [ {
-            "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0005/defult.jpg",
+            "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0006/defult.jpg",
             "protocol" : "http://iiif.io/api/image",
             "type" : "ImageService3",
             "profile" : "level2"
