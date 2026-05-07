@@ -1,0 +1,15 @@
+{
+  "id" : "https://keolson-uc.github.io/bardard-test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in keolson-uc/bardard-test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://keolson-uc.github.io/bardard-test/manifests/0507_workbench.json",
+    "label" : {
+      "en" : [ "10B-0239" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
