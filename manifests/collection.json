@@ -17,5 +17,11 @@
       "en" : [ "10B-0239" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/bardard-test/manifests/0513_workbench-thumbs.json",
+    "label" : {
+      "en" : [ "10B-0239" ]
+    },
+    "type" : "Manifest"
   } ]
 }
