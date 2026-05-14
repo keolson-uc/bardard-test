@@ -6,28 +6,28 @@
   } ],
   "protocol" : "http://iiif.io/api/image",
   "sizes" : [ {
-    "width" : 244,
-    "height" : 251
+    "width" : 14,
+    "height" : 14
   }, {
-    "width" : 487,
-    "height" : 501
+    "width" : 27,
+    "height" : 28
   }, {
-    "width" : 974,
-    "height" : 1001
+    "width" : 54,
+    "height" : 56
   }, {
-    "width" : 1947,
-    "height" : 2002
+    "width" : 108,
+    "height" : 111
   }, {
-    "width" : 3893,
-    "height" : 4003
+    "width" : 216,
+    "height" : 222
   }, {
-    "width" : 7785,
-    "height" : 8005
+    "width" : 432,
+    "height" : 444
   } ],
   "profile" : "level0",
-  "width" : 7785,
+  "width" : 432,
   "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0005",
   "type" : "ImageService3",
   "@context" : "http://iiif.io/api/image/3/context.json",
-  "height" : 8005
+  "height" : 444
 }
