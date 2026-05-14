@@ -32,7 +32,7 @@
     }
   } ],
   "thumbnail" : [ {
-    "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0001/full/200,/0/default.jpg",
+    "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0001.t/full/200,/0/default.jpg",
     "type" : "Image",
     "format" : "image/jpeg",
     "service" : [ {
@@ -51,11 +51,11 @@
     "height" : 10652,
     "width" : 14204,
     "thumbnail" : [ {
-      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0001/full/200,/0/default.jpg",
+      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0001.t/full/200,/0/default.jpg",
       "type" : "Image",
       "format" : "image/jpeg",
-      "width" : 10652,
-      "height" : 14204
+      "height" : 323,
+      "width" : 432
     } ],
     "items" : [ {
       "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0001/canvas/img_0001",
@@ -89,11 +89,11 @@
     "height" : 10691,
     "width" : 11566,
     "thumbnail" : [ {
-      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002/full/200,/0/default.jpg",
+      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002.t/full/200,/0/default.jpg",
       "type" : "Image",
       "format" : "image/jpeg",
-      "width" : 10691,
-      "height" : 11566
+      "height" : 399,
+      "width" : 432
     } ],
     "items" : [ {
       "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0002/canvas/img_0002",
@@ -127,11 +127,11 @@
     "height" : 10691,
     "width" : 11566,
     "thumbnail" : [ {
-      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0003/full/200,/0/default.jpg",
+      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0003.t/full/200,/0/default.jpg",
       "type" : "Image",
       "format" : "image/jpeg",
-      "width" : 10691,
-      "height" : 11566
+      "height" : 399,
+      "width" : 432
     } ],
     "items" : [ {
       "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0003/canvas/img_0003",
@@ -165,11 +165,11 @@
     "height" : 10691,
     "width" : 11566,
     "thumbnail" : [ {
-      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0004/full/200,/0/default.jpg",
+      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0004.t/full/200,/0/default.jpg",
       "type" : "Image",
       "format" : "image/jpeg",
-      "width" : 10691,
-      "height" : 11566
+      "height" : 399,
+      "width" : 432
     } ],
     "items" : [ {
       "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0004/canvas/img_0004",
@@ -203,11 +203,11 @@
     "height" : 8005,
     "width" : 7785,
     "thumbnail" : [ {
-      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0005/full/200,/0/default.jpg",
+      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0005.t/full/200,/0/default.jpg",
       "type" : "Image",
       "format" : "image/jpeg",
-      "width" : 8005,
-      "height" : 7785
+      "height" : 444,
+      "width" : 432
     } ],
     "items" : [ {
       "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0005/canvas/img_0005",
@@ -241,11 +241,11 @@
     "height" : 8013,
     "width" : 7776,
     "thumbnail" : [ {
-      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0006/full/200,/0/default.jpg",
+      "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0006.t/full/200,/0/default.jpg",
       "type" : "Image",
       "format" : "image/jpeg",
-      "width" : 8013,
-      "height" : 7776
+      "height" : 445,
+      "width" : 432
     } ],
     "items" : [ {
       "id" : "https://keolson-uc.github.io/bardard-test/images/yerkesplates-10B-0239_0006/canvas/img_0006",
