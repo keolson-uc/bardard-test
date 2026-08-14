@@ -23,5 +23,11 @@
       "en" : [ "10B-0239" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/bardard-test/manifests/b2fg31g9f64t_copy.json",
+    "label" : {
+      "en" : [ "In Perseus and Taurus" ]
+    },
+    "type" : "Manifest"
   } ]
 }
